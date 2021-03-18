@@ -6,8 +6,15 @@ I'm a 22 year old software developer, passionate about code and learning new thi
 
 I'm still sort of new to all this but I try to get by as good and as efficiently as I possibly can.
 
-<div align="center" style="display: flex; flex-direction: row">
-    <div>
+<h3 align="center">Favourite Tools</h3>
+
+<p align="center">
+    <a href="https://www.jetbrains.com/idea/"><img src="https://github.com/benchi99/benchi99/blob/main/icons/ij_logo.png" height="50" width="50" /></a>
+    <a href="https://code.visualstudio.com/"><img src="https://github.com/benchi99/benchi99/blob/main/icons/vscode_logo.png" height="50" width="50" /></a>
+</p>
+
+<details>
+    <summary>Technologies I know</summary>
 
 ### Technologies I mainly dominate:
 
@@ -16,9 +23,6 @@ I'm still sort of new to all this but I try to get by as good and as efficiently
 - [Vue.js](https://vuejs.org/)
 - SQL ([MySQL](https://www.mysql.com/) - Oracle)
 
-    </div>
-
-    <div>
 ### Technologies I have also used to a lesser extent:
 
 - C#
@@ -28,18 +32,8 @@ I'm still sort of new to all this but I try to get by as good and as efficiently
 - [Django](https://www.djangoproject.com/)
 - [Slim Framework](https://www.slimframework.com/)
 
-    </div>
-</div>
+</details>
 
-### Favourite Tools
-
-<p align="center">
-    <a href="https://www.jetbrains.com/idea/"><img src="https://github.com/benchi99/benchi99/blob/main/icons/ij_logo.png" height="100" width="100" /></a>
-    <a href="https://code.visualstudio.com/"><img src="https://github.com/benchi99/benchi99/blob/main/icons/vscode_logo.png" height="100" width="100" /></a>
-</p>
-
-<div align="center" style="display: flex; flex-direction: row">
-    <div>
 
 ### Where to find my work 
 
@@ -47,15 +41,10 @@ I'm still sort of new to all this but I try to get by as good and as efficiently
 - Check out my [itch.io](https://benchi99.itch.io/) page!
 - Some more cool stuff coming soon... 
 
-    </div>
-
-    <div>
-
 ### Where to find me
 
-- [Twitter](https://twitter.com/benchi99)
-- [YouTube](https://www.youtube.com/channel/UCnbqvh0ZpxVo-WSvY3QivSA)
-- [LinkedIn](https://www.linkedin.com/in/rub%C3%A9n-bermejo-romero/)
-
-    </div>
-</div>
+<p align="center">
+    <a href="https://twitter.com/benchi99"><img src="https://github.com/benchi99/benchi99/blob/main/icons/twitter_logo.png" height="50" /></a>
+    <a href="https://www.youtube.com/channel/UCnbqvh0ZpxVo-WSvY3QivSA"><img src="https://github.com/benchi99/benchi99/blob/main/icons/yt_logo.png" height="50" /></a>
+    <a href="https://www.linkedin.com/in/rub%C3%A9n-bermejo-romero/"><img src="https://github.com/benchi99/benchi99/blob/main/icons/linkedin_logo.png" height="50" /></a>
+</p>
