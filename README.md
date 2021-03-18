@@ -2,9 +2,9 @@
 
 <h2 align="center">I'm Rubén</h2>
 
-I'm a 22 year old software developer, passionate about code and learning new things.
+<p align="center">I'm a 22 year old software developer, passionate about code and learning new things.</p>
 
-I'm still sort of new to all this but I try to get by as good and as efficiently as I possibly can.
+<p align="center">I'm still sort of new to all this but I try to get by as good and as efficiently as I possibly can.</p>
 
 <h3 align="center">Favourite Tools</h3>
 
@@ -35,11 +35,11 @@ I'm still sort of new to all this but I try to get by as good and as efficiently
 
 <h3 align="center">Where to find my work</h3> 
 
-<ul align="center">
-    <li>Look through my repos! 😄</li>
-    <li>Check out my <a href="https://benchi99.itch.io/">itch.io</a> page!</li>
-    <li>Some more cool stuff coming soon...</li>
-</ul>
+<dl align="center">
+    <dd>Look through my repos! 😄</dd>
+    <dd>Check out my <a href="https://benchi99.itch.io/">itch.io</a> page!</dd>
+    <dd>Some more cool stuff coming soon...</dd>
+</dl>
 
 <h3 align="center">Where to find me</h3>
 
