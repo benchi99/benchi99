@@ -13,35 +13,35 @@ I'm still sort of new to all this but I try to get by as good and as efficiently
     <a href="https://code.visualstudio.com/"><img src="https://github.com/benchi99/benchi99/blob/main/icons/vscode_logo.png" height="50" width="50" /></a>
 </p>
 
-<details>
+<details align="center">
     <summary>Technologies I know</summary>
-
-### Technologies I mainly dominate:
-
-- Java
-- [Spring Boot](https://spring.io/)
-- [Vue.js](https://vuejs.org/)
-- SQL ([MySQL](https://www.mysql.com/) - Oracle)
-
-### Technologies I have also used to a lesser extent:
-
-- C#
-- Python
-- PHP
-- [Unity3D](https://unity.com/)
-- [Django](https://www.djangoproject.com/)
-- [Slim Framework](https://www.slimframework.com/)
-
+    <dl align="center">
+        <dt>Technologies I mainly dominate:</dt>
+        <dd>Java</dd>
+        <dd><a href="https://spring.io/">Spring Boot</a></dd>
+        <dd><a href="https://vuejs.org/">Vue.js</a></dd>
+        <dd>SQL (<a href="https://www.mysql.com/">MySQL</a> - Oracle)</dd>
+        <dt>Technologies I have also used to a lesser extent:</dt>
+        <dd>C#</dd>
+        <dd>Python</dd>
+        <dd>PHP</dd>
+        <dd><a href="https://unity.com/">Unity3D</a></dd>
+        <dd><a href="https://www.djangoproject.com/">Django Framework</a></dd>
+        <dd><a href="https://www.slimframework.com/">Slim Framework</a></dd>
+        <dd><a href="https://www.heroku.com/">Heroku</a></dd>
+    </dl>
 </details>
 
 
-### Where to find my work 
+<h3 align="center">Where to find my work</h3> 
 
-- Look through my repos! 😄
-- Check out my [itch.io](https://benchi99.itch.io/) page!
-- Some more cool stuff coming soon... 
+<ul align="center">
+    <li>Look through my repos! 😄</li>
+    <li>Check out my <a href="https://benchi99.itch.io/">itch.io</a> page!</li>
+    <li>Some more cool stuff coming soon...</li>
+</ul>
 
-### Where to find me
+<h3 align="center">Where to find me</h3>
 
 <p align="center">
     <a href="https://twitter.com/benchi99"><img src="https://github.com/benchi99/benchi99/blob/main/icons/twitter_logo.png" height="50" /></a>
