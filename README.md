@@ -2,7 +2,7 @@
 
 <h2 align="center">I'm Rubén</h2>
 
-<p align="center">I'm a 23 year old software developer, passionate about code and learning new things.</p>
+<p align="center">I'm a 24 year old software developer, passionate about code and learning new things.</p>
 
 <p align="center">I'm still sort of new to all this but I try to get by as good and as efficiently as I possibly can.</p>
 
