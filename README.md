@@ -38,7 +38,6 @@
 <dl align="center">
     <dd>Look through my repos! 😄</dd>
     <dd>Check out my <a href="https://benchi99.itch.io/">itch.io</a> page!</dd>
-    <dd>Some more cool stuff coming soon...</dd>
 </dl>
 
 <h3 align="center">Where to find me</h3>
